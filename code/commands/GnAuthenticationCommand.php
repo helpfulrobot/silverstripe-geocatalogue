@@ -69,3 +69,4 @@ class GnAuthenticationCommand extends ControllerCommand
     {
     }
 } // END class 
+
